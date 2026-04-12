@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##### build the project
 
     ./gradlew build
@@ -22,3 +23,6 @@
 =======
 # my-project
 >>>>>>> 2f266a7d1fded979f0a2ac89a8236a0fd52aa907
+=======
+# my-project
+>>>>>>> 27adda8b2b103b35abf8414edfbd0fa35f0bc8cd
